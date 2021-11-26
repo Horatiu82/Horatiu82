@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Horatiu
+- 👋 Hi, I’m Horatiu.
 - 🌱 I’m currently learning ...
 
 <!---
